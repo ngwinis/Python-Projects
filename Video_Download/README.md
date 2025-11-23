@@ -2,10 +2,12 @@
 
 ## Getting Started
 This project helps you download any video with an URL:
-- Download link
+- Link download
 - Youtube video
 
 ## Installation
+First, change directory to the `/script` folder.
+
 To use this tool, you need to install some pip packages:
 
 ```
@@ -20,7 +22,7 @@ sudo apt install ffmpeg
 ```
 
 ## Usage
-Run this command in the same directory:
+Run this command in the directory `/script`:
 
 ```
 python video_download.py
