@@ -58,6 +58,6 @@ You may find it inconvenient to run this tool directly in the terminal. To make 
     pip install --upgrade yt_dlp
     ```
 
-`Usage:` With the video links and the filename, you have to paste one per line.
+- `Usage:` With the video links and the filename, you have to paste one per line.
 
     ![alt text](design/demo_video_downloader.gif)
