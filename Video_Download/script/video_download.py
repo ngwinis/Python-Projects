@@ -49,7 +49,7 @@ def main():
         if 'youtu.be' in url:
             download_youtube_video(url, outdir)
         else:
-            filename = os.path.join(outdir, "downloaded_video.mp4")
+            filename = os.path.join(outdir, "video_url.mp4")
             download_file_from_url(url, filename)
 
     elif choice == '2':
