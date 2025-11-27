@@ -12,6 +12,8 @@ To use this tool, you need to install some pip packages:
 pip install -r requirements.txt
 ```
 
+In Windows, install ffmpeg from this URL: [ffmpeg](https://www.ffmpeg.org/download.html)
+
 In Linux, install ffmpeg with this command:
 
 ```
